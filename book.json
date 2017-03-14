@@ -1,0 +1,16 @@
+{
+    //插件安装配置格式
+
+     "plugins": ["myplugin"],
+
+     "pluginsConfig": {
+
+         "myPlugin": {
+
+             "message": "Hello World"
+
+         }
+
+     }
+
+}
